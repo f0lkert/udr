@@ -21,8 +21,8 @@ github.com/evanphx/json-patch v0.5.2 h1:xVCHIVMUu1wtM/VkR9jVZ45N3FhZfYMMYGorLCR8
 github.com/evanphx/json-patch v0.5.2/go.mod h1:ZWS5hhDbVDyob71nXKNL0+PWn6ToqBHMikGIFbs31qQ=
 github.com/evanphx/json-patch/v5 v5.9.0 h1:kcBlZQbplgElYIlo/n1hJbls2z/1awpXxpRi0/FOJfg=
 github.com/evanphx/json-patch/v5 v5.9.0/go.mod h1:VNkHZ/282BpEyt/tObQO8s5CMPmYYq14uClGH4abBuQ=
-github.com/f0lkert/free5gc-fixup v1.0.2 h1:s1OEefZHNLm9JTyvOuaKvgBGheiJ5vySUJ0tDHjNoPo=
-github.com/f0lkert/free5gc-fixup v1.0.2/go.mod h1:y6eXvl/Y81/XEterlDrOdJ7Fz7CmMmZdjSeuzsvxiXI=
+github.com/f0lkert/free5gc-fixup v1.1.0 h1:nRJpaJGNE2MTA/dD8eEUFLANrkqVMwSWx5wR36QWg8c=
+github.com/f0lkert/free5gc-fixup v1.1.0/go.mod h1:y6eXvl/Y81/XEterlDrOdJ7Fz7CmMmZdjSeuzsvxiXI=
 github.com/felixge/httpsnoop v1.0.4 h1:NFTV2Zj1bL4mc9sqWACXbQFVBBg2W3GPvqp8/ESS2Wg=
 github.com/felixge/httpsnoop v1.0.4/go.mod h1:m8KPJKqk1gH5J9DgRY2ASl2lWCfGKXixSwevea8zH2U=
 github.com/free5gc/aper v1.1.0 h1:X36hts0PYQuN3d+VXpYsUZaibrokP8nbBVIQBVY2bNI=
