@@ -17,7 +17,7 @@ import (
 	"github.com/gin-gonic/gin"
 
 	"github.com/free5gc/openapi/models"
-	udr_context "github.com/free5gc/udr/internal/context"
+	udr_context "github.com/f0lkert/udr/internal/context"
 )
 
 func (p *Processor) PostSubscriptionDataSubscriptionsProcedure(

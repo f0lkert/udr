@@ -15,8 +15,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"go.mongodb.org/mongo-driver/bson"
 
-	"github.com/free5gc/udr/internal/logger"
-	"github.com/free5gc/udr/internal/util"
+	"github.com/f0lkert/udr/internal/logger"
+	"github.com/f0lkert/udr/internal/util"
 	"github.com/free5gc/util/metrics/sbi"
 )
 

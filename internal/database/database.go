@@ -4,9 +4,9 @@ import (
 	"go.mongodb.org/mongo-driver/bson"
 
 	"github.com/free5gc/openapi/models"
-	"github.com/free5gc/udr/internal/database/mongodb"
-	"github.com/free5gc/udr/internal/logger"
-	"github.com/free5gc/udr/pkg/factory"
+	"github.com/f0lkert/udr/internal/database/mongodb"
+	"github.com/f0lkert/udr/internal/logger"
+	"github.com/f0lkert/udr/pkg/factory"
 )
 
 const (

@@ -22,10 +22,10 @@ import (
 
 	"github.com/free5gc/openapi"
 	"github.com/free5gc/openapi/models"
-	udr_context "github.com/free5gc/udr/internal/context"
-	db "github.com/free5gc/udr/internal/database"
-	"github.com/free5gc/udr/internal/logger"
-	"github.com/free5gc/udr/internal/util"
+	udr_context "github.com/f0lkert/udr/internal/context"
+	db "github.com/f0lkert/udr/internal/database"
+	"github.com/f0lkert/udr/internal/logger"
+	"github.com/f0lkert/udr/internal/util"
 	"github.com/free5gc/util/metrics/sbi"
 	"github.com/free5gc/util/mongoapi"
 )

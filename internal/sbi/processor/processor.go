@@ -1,8 +1,8 @@
 package processor
 
 import (
-	"github.com/free5gc/udr/internal/database"
-	"github.com/free5gc/udr/pkg/app"
+	"github.com/f0lkert/udr/internal/database"
+	"github.com/f0lkert/udr/pkg/app"
 )
 
 type Processor struct {

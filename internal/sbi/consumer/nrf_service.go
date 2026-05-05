@@ -10,8 +10,8 @@ import (
 	"github.com/free5gc/openapi/models"
 	"github.com/free5gc/openapi/nrf/NFDiscovery"
 	"github.com/free5gc/openapi/nrf/NFManagement"
-	udr_context "github.com/free5gc/udr/internal/context"
-	"github.com/free5gc/udr/internal/logger"
+	udr_context "github.com/f0lkert/udr/internal/context"
+	"github.com/f0lkert/udr/internal/logger"
 	sbi_metrics "github.com/free5gc/util/metrics/sbi"
 )
 

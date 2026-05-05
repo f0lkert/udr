@@ -9,7 +9,7 @@ import (
 	"go.mongodb.org/mongo-driver/bson"
 
 	"github.com/free5gc/openapi/models"
-	"github.com/free5gc/udr/internal/logger"
+	"github.com/f0lkert/udr/internal/logger"
 )
 
 func MapToByte(data map[string]interface{}) []byte {

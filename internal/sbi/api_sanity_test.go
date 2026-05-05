@@ -13,10 +13,10 @@ import (
 	"github.com/stretchr/testify/require"
 
 	"github.com/free5gc/openapi/models"
-	db "github.com/free5gc/udr/internal/database"
-	"github.com/free5gc/udr/internal/logger"
-	"github.com/free5gc/udr/internal/sbi/processor"
-	"github.com/free5gc/udr/pkg/factory"
+	db "github.com/f0lkert/udr/internal/database"
+	"github.com/f0lkert/udr/internal/logger"
+	"github.com/f0lkert/udr/internal/sbi/processor"
+	"github.com/f0lkert/udr/pkg/factory"
 	util_logger "github.com/free5gc/util/logger"
 	"github.com/free5gc/util/mongoapi"
 )

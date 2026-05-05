@@ -12,8 +12,8 @@ import (
 
 	"github.com/free5gc/openapi/models"
 	"github.com/free5gc/openapi/oauth"
-	"github.com/free5gc/udr/internal/logger"
-	"github.com/free5gc/udr/pkg/factory"
+	"github.com/f0lkert/udr/internal/logger"
+	"github.com/f0lkert/udr/pkg/factory"
 )
 
 var udrContext = UDRContext{}

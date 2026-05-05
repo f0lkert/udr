@@ -19,8 +19,8 @@ import (
 
 	"github.com/free5gc/openapi"
 	"github.com/free5gc/openapi/models"
-	"github.com/free5gc/udr/internal/logger"
-	"github.com/free5gc/udr/internal/util"
+	"github.com/f0lkert/udr/internal/logger"
+	"github.com/f0lkert/udr/internal/util"
 	"github.com/free5gc/util/metrics/sbi"
 	"github.com/free5gc/util/mongoapi"
 )

@@ -1,4 +1,4 @@
-module github.com/free5gc/udr
+module github.com/f0lkert/udr
 
 go 1.25.5
 
